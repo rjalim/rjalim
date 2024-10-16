@@ -1,3 +1,4 @@
+![logo](https://github.com/rjalim/rjalim/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm MD.Abdul Alim</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer From E-Medical Software Limited</h3>
 
