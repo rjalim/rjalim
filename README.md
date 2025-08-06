@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rjabdulalim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fkjrsG_aH72cdFwZpx1WbAhN1ogc6Dq4/view?usp=drivesdk](https://drive.google.com/file/d/1fkjrsG_aH72cdFwZpx1WbAhN1ogc6Dq4/view?usp=drivesdk)
+- 📄 Know about my experiences : https://drive.google.com/file/d/15pCjkunUqiI62CFi3jcwg1fchAEnmnVg/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
